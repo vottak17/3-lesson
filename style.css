@@ -1,0 +1,29 @@
+.h1 {
+  text-align: center;
+}
+.div1 {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  display: flex;
+  justify-content: space-around;
+}
+.div2 {
+  background: red;
+  color: white;
+  width: 400px;
+  height: 300px;
+}
+.h11 {
+  margin-top: 30%;
+  text-align: center;
+}
+.div3 {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-around;
+}
+.div4 {
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-around;
+}
